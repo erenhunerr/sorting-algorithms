@@ -2,11 +2,12 @@
 # Visualising various sorting algorithms using Python and Tkinter
 
 Algorithms include:
-Selection Sort
-Bubble Sort
-Insertion Sort
-Merge Sort
-Quick Sort
+
+- Selection Sort
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
 
 Property:
 
