@@ -1,20 +1,19 @@
 
-# SIRALAMA ALGORİTMALARI GÖRSELLEŞTİRİCİSİ
+# Visualising various sorting algorithms using Python and Tkinter
 
-Bu projenin amacı kullanıcının sıralama algoritmalarını 
-ve grafik türlerini kullanarak bir listenin sıralanmasını 
-ve sıralama işleminin adımlarını görsel bir şekilde 
-görmesini sağlamaktır.
+Algorithms include:
+Selection Sort
+Bubble Sort
+Insertion Sort
+Merge Sort
+Quick Sort
 
+Property:
 
+- Animation speed can be scaled.
+- The user can manually enter the list to be sorted.
+- There are Create-Start-Stop-Regenerate Buttons.
+- Sorting algorithms can be selected.
+- Includes Scatter and Bar chart.
 
-
-## Kurulum
-
-Dist klasörünün içini açarak .exe uzantılı dosyayı çalıştırın.
-
-    
-## Ekran Görüntüleri
-
-![](https://www.hizliresim.com/br77227)
 
